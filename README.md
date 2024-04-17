@@ -7,3 +7,5 @@
     * Word Search - boggle
     * Word Search - anagram
     * Web Crawler
+* Skills
+* Contacts
