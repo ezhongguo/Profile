@@ -3,7 +3,7 @@
 ### Table Content
 * About
 * stanCode Python Coursework
-* * Babynames
-* * Word Search - boggle
-* * anagram.py
-* * Web Crawle
+    * Babynames
+    * Word Search - boggle
+    * Word Search - anagram
+    * Web Crawler
