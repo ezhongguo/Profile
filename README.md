@@ -36,7 +36,7 @@ The Anagram project finds all anagrams for a user-input word using recursive per
 * **Skills:**
 Implemented file handling to read an English dictionary, used recursion for permutation generation to find anagrams, managed data with lists and pairs, measured execution time, and optimized permutation generation with prefix checking.
 
-### Web Crawler
+#### Web Crawler
 * **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/blob/main/Web%20Crawler/webcrawler.py)
 * **Description:**
 This project fetches data from three URLs containing baby name statistics for the decades 2010s, 2000s, and 1990s from the Social Security Administration's website. The program currently prints cumulative rankings for male and female names.
