@@ -1,3 +1,9 @@
 # Yi Zhong (Eva) Guo - Data Analysis Portfolio 
 
-* ### Table Content
+### Table Content
+* About
+* stanCode Python Coursework
+* * Babynames
+* * Word Search - boggle
+* * anagram.py
+* * Web Crawle
