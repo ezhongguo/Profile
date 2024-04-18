@@ -2,7 +2,8 @@
 
 ### Table Content
 * Selected Project
-    * Predictive Modeling for Bike-Sharing Usage 
+    * Predictive Modeling for Bike-Sharing Usage
+    * Statistical Models for Economic Growth Rate Analysis
 * stanCode Python Coursework
     * Babynames
     * Word Search - boggle
@@ -24,6 +25,22 @@ The project focuses on building predictive models to forecast pick-up and drop-o
   * Python Programming (Pandas, NumPy, Scikit-learn)
   * Data Visualization (Matplotlib, Seaborn)
   * Linear Regression and Model Evaluation Metrics
+
+#### Statistical Models for Economic Growth Rate Analysis
+**Code:** [LINK](https://github.com/ezhongguo/Economic-Growth-Rate/blob/main/Economic%20Growth%20Rate%20Analysis.ipynb)
+* **Description:**
+This project aims to investigate the relationship between economic indicators and GDP growth rate. We analyze various factors such as inflation rate, unemployment rate, real interest rate, primary school enrollment rate, and their impact on GDP growth. Using multivariate linear regression models, we aim to identify the most influential factors affecting economic growth across different time periods and countries. 
+* **Role:** Responsible for data cleaning, preprocessing, and statistical analysis.
+* **Team Size:** 4
+* **Skills:**
+  * Data Wrangling
+    Pandas: Data manipulation, reading Excel, and renaming columns.
+  * Linear Regression
+    Statsmodels: Statistical modeling and linear regression.
+    Sklearn: Data splitting with train_test_split.
+  * Data Visualization
+    Matplotlib: Basic plots, like scatter plots for GDP growth.
+    Seaborn: Enhanced visual scatter plots.
 
 ### MyStanCodeProjects
 
