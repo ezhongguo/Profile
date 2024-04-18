@@ -43,6 +43,7 @@ This project aims to investigate the relationship between economic indicators an
     Matplotlib: Basic plots, like scatter plots for GDP growth.
     Seaborn: Enhanced visual scatter plots.
 
+---------------------------------------------------------------------------------------------------------
 ### MyStanCodeProjects
 
 #### <a name="Baby"></a> Baby names
