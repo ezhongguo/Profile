@@ -10,7 +10,7 @@
     * [Word Search - anagram](#anagram)
     * [Web Crawler](#Web)
 * [Skills](#skills)
-* [Contacts](contacts)
+* [Contacts](#contacts)
 
 ### Selected Project
 #### <a name="Predictive"></a> Predictive Modeling for Bike-Sharing Usage
