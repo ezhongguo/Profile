@@ -3,14 +3,14 @@
 ### Table Content
 * Selected Project
     * [Predictive Modeling for Bike-Sharing Usage](#Predictive)
-    * Statistical Models for Economic Growth Rate Analysis
+    * [Statistical Models for Economic Growth Rate Analysis](#Statistical)
 * stanCode Python Coursework
-    * Babynames
-    * Word Search - boggle
-    * Word Search - anagram
-    * Web Crawler
-* Skills
-* Contacts
+    * [Babynames](#Baby)
+    * [Word Search - boggle](#boggle)
+    * [Word Search - anagram](#anagram)
+    * [Web Crawler](#Web)
+* [Skills](#skills)
+* [Contacts](contacts)
 
 ### Selected Project
 #### <a name="Predictive"></a> Predictive Modeling for Bike-Sharing Usage
@@ -26,7 +26,7 @@ The project focuses on building predictive models to forecast pick-up and drop-o
   * Data Visualization (Matplotlib, Seaborn)
   * Linear Regression and Model Evaluation Metrics
 
-#### Statistical Models for Economic Growth Rate Analysis
+#### <a name="Statistical"></a>Statistical Models for Economic Growth Rate Analysis
 **Code:** [LINK](https://github.com/ezhongguo/Economic-Growth-Rate/blob/main/Economic%20Growth%20Rate%20Analysis.ipynb)
 * **Description:**
 This project aims to investigate the relationship between economic indicators and GDP growth rate. We analyze various factors such as inflation rate, unemployment rate, real interest rate, primary school enrollment rate, and their impact on GDP growth. Using multivariate linear regression models, we aim to identify the most influential factors affecting economic growth across different time periods and countries. 
@@ -44,7 +44,7 @@ This project aims to investigate the relationship between economic indicators an
 
 ### MyStanCodeProjects
 
-#### Baby names
+#### <a name="Baby"></a> Baby names
 * **DEMO Video:** [LINK](https://drive.google.com/file/d/1EREk00LTtlER3VqBbw1kDceA5bLc0Afo/view?usp=sharing)
 * **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/tree/main/Babynames)
 * **Description:**
@@ -52,7 +52,7 @@ This project is focused on analyzing and visualizing baby names data across vari
 * **Skills:**
 Implemented a dictionary-based data structure for baby names, handled file operations, developed data manipulation functions, implemented a search feature, collaborated on GUI development using tkinter, visualized data with line charts, and managed error handling.
 
-#### Word Search - boggle
+#### <a name="boggle"></a>Word Search - boggle
 * **DEMO Video:** [LINK](https://drive.google.com/file/d/1NqmXw-dwOFOjexf9Rz80wokwZ_Mkh8c1/view?usp=sharing)
 * **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/blob/main/Boggle/boggle.py)
 * **Description:**
@@ -60,7 +60,7 @@ The Boggle project is a program that finds words on a 4x4 grid of letters. Users
 * **Skills:**
 Implemented file handling for dictionary reading, validated user input, utilized recursion for word finding, managed grid representation with dictionaries, manipulated strings for word construction, measured execution time, optimized search with prefix checking, and utilized sets to manage word storage.
 
-#### Word Search - Anagram
+#### <a name="anagram"></a>Word Search - anagram
 * **DEMO Video:** [LINK](https://drive.google.com/file/d/1dutHTsvSueqjCnCZzLJgej_FdrwrSrlq/view?usp=sharing)
 * **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/blob/main/Anagram/anagram.py)
 * **Description:**
@@ -68,18 +68,18 @@ The Anagram project finds all anagrams for a user-input word using recursive per
 * **Skills:**
 Implemented file handling to read an English dictionary, used recursion for permutation generation to find anagrams, managed data with lists and pairs, measured execution time, and optimized permutation generation with prefix checking.
 
-#### Web Crawler
+#### <a name="Web"></a>Web Crawler
 * **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/blob/main/Web%20Crawler/webcrawler.py)
 * **Description:**
 This project fetches data from three URLs containing baby name statistics for the decades 2010s, 2000s, and 1990s from the Social Security Administration's website. The program currently prints cumulative rankings for male and female names.
 * **Skills:**
 Web Scraping: Used requests to fetch HTML, BeautifulSoup for parsing, extracted data from tables, manipulated text, iterated through tables, and performed counting and aggregation. Printed results to the console.
 
-### Skills
+### <a name="skills"></a>Skills
 * Programming Languages & Tools: Python (Pandas, NumPy, MatPlotLib, Scikit-learn), SQL, AWS.
 * Statistical Analysis & Data Processing : R, MS Excel (Solver, Pivot Table, VLOOKUP).
 * BI & Visualization Tools: PowerBi (DAX), Tableau.
 
-### Contacts
+### <a name="contacts"></a>Contacts
 * Linkedin : [yizhong-guo](https://www.linkedin.com/in/yi-zhong-guo-4b36b3182/)
 * Email: yizhong.guo71@gmail.com
