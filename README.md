@@ -2,7 +2,7 @@
 
 ### Table Content
 * Selected Project
-    * Predictive Modeling for Bike-Sharing Usage
+    * [Predictive Modeling for Bike-Sharing Usage](#Predictive Modeling for Bike-Sharing Usage)
     * Statistical Models for Economic Growth Rate Analysis
 * stanCode Python Coursework
     * Babynames
