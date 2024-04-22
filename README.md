@@ -1,6 +1,12 @@
 # Yi Zhong (Eva) Guo - Data Analysis Portfolio 
 
+### About me 
+Hello! I'm Eva, currently pursuing my MS in Business Analytics at George Washington University and expecting to graduate in December 2024. With two years of experience in e-commerce, I've gained a solid understanding of online retail data. I'm actively seeking roles in data analysis, business analysis, database administration, and supply chain management.
+
+On this page, you'll find selected projects showcasing my expertise in machine learning, SQL implementation, and Python coursework.
+
 ### Table Content
+* About me
 * Selected Project
     * [Predictive Modeling for Bike-Sharing Usage](#Predictive)
     * [SQL Data Processing for NYC Vehicle Collisions Analysis](#NYC)
