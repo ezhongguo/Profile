@@ -3,6 +3,7 @@
 ### Table Content
 * Selected Project
     * [Predictive Modeling for Bike-Sharing Usage](#Predictive)
+    * [SQL Data Processing for NYC Vehicle Collisions Analysis](#NYC)
     * [Statistical Models for Economic Growth Rate Analysis](#Statistical)
     * [PowerBI Supply Chain Analysis Dashboard](#PowerBI)
 * stanCode Python Coursework
@@ -27,6 +28,16 @@ The project focuses on building predictive models to forecast pick-up and drop-o
   * Python Programming (Pandas, NumPy, Scikit-learn)
   * Data Visualization (Matplotlib, Seaborn)
   * Linear Regression and Model Evaluation Metrics
+<a name="NYC"></a> 
+#### SQL Data Processing for NYC Vehicle Collisions Analysis
+**Code:** [LINK](https://github.com/ezhongguo/NYC-Motor-Vehicle-Collisions/blob/main/NYC%20Motor%20Vehicle%20Collisions.ipynb)
+* **Description:**
+This project focuses on analyzing New York City Motor Vehicle Collisions (MVC) data from 2016 to 2022. We aim to provide actionable insights to stakeholders like car insurance companies, NYPD Traffic Enforcement, and the New York Department of Motor Vehicles (DMV) by exploring trends, patterns, and contributing factors related to MVCs.We use Shell Commands for data acquisition and basic preprocessing, and SQL in AWS for data manipulation, analysis, and database management.
+* **Role:** Responsible for data cleaning and exploration, Star-schema design and implementation and SQL table creation and query writing for analysis
+* **Team Size:** 7
+* **Skills:**
+  * Shell Commands: Used for data acquisition, file renaming, and initial preprocessing.
+  * SQL in AWS: Create table, querying, analysis, and AWS database management.
 <a name="Statistical"></a>
 #### Statistical Models for Economic Growth Rate Analysis
 **Code:** [LINK](https://github.com/ezhongguo/Economic-Growth-Rate/blob/main/Economic%20Growth%20Rate%20Analysis.ipynb)
