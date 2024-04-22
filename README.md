@@ -47,6 +47,7 @@ This project aims to investigate the relationship between economic indicators an
 <a name="PowerBI"></a>
 #### PowerBI Supply Chain Analysis Dashboard
 **DEMO Video:** [LINK](https://drive.google.com/file/d/1KkYsJomkshiyImQrWUQov4wq_FqQE8zk/view?usp=sharing)
+![Supply Chain Analysis Dashboard](https://github.com/ezhongguo/Profile/assets/138747553/14d6ae49-bec8-4e66-80d3-144ff9548b24)
 * **Dashboard Statement:**
 Guided by DataLiteracy4All's tutorial and utilizing a sample dataset, I crafted a supply chain analysis dashboard emphasizing inventory and order level insights. This dashboard offers a holistic view of warehouse operations and order processing and showcases vital metrics such as Revenue, Cost, Profit, and Transactions. Enhanced by slicers, users can easily filter data by Warehouse Code, Product Name, and Channel Level.
 Key features of the dashboard include:
