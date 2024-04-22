@@ -16,7 +16,7 @@
 ---------------------------------------------------------------------------------------------------------
 ### Selected Project
 <a name="Predictive"></a> 
-#### **Predictive Modeling for Bike-Sharing Usage**
+#### * Predictive Modeling for Bike-Sharing Usage
 **Code:** [LINK](https://github.com/ezhongguo/Bike-Sharing-Usage/blob/main/Predictive%20Modeling%20for%20Bike-Sharing%20Usage.ipynb)
 * **Description:**
 The project focuses on building predictive models to forecast pick-up and drop-off counts at bike-sharing stations. Utilizing historical data on weather conditions and bike-sharing usage, linear regression models were developed to provide insights into the optimal allocation of bikes and docks at specific stations.
@@ -30,7 +30,7 @@ The project focuses on building predictive models to forecast pick-up and drop-o
   * Linear Regression and Model Evaluation Metrics
     
 <a name="NYC"></a> 
-#### SQL Data Processing for NYC Vehicle Collisions Analysis
+#### * SQL Data Processing for NYC Vehicle Collisions Analysis
 **Code:** [LINK](https://github.com/ezhongguo/NYC-Motor-Vehicle-Collisions/blob/main/NYC%20Motor%20Vehicle%20Collisions.ipynb)
 * **Description:**
 This project focuses on analyzing New York City Motor Vehicle Collisions (MVC) data from 2016 to 2022. We aim to provide actionable insights to stakeholders like car insurance companies, NYPD Traffic Enforcement, and the New York Department of Motor Vehicles (DMV) by exploring trends, patterns, and contributing factors related to MVCs.We use Shell Commands for data acquisition and basic preprocessing, and SQL in AWS for data manipulation, analysis, and database management.
@@ -41,7 +41,7 @@ This project focuses on analyzing New York City Motor Vehicle Collisions (MVC) d
   * SQL in AWS: Create table, querying, analysis, and AWS database management.
     
 <a name="Statistical"></a>
-#### Statistical Models for Economic Growth Rate Analysis
+#### * Statistical Models for Economic Growth Rate Analysis
 **Code:** [LINK](https://github.com/ezhongguo/Economic-Growth-Rate/blob/main/Economic%20Growth%20Rate%20Analysis.ipynb)
 * **Description:**
 This project aims to investigate the relationship between economic indicators and GDP growth rate. We analyze various factors such as inflation rate, unemployment rate, real interest rate, primary school enrollment rate, and their impact on GDP growth. Using multivariate linear regression models, we aim to identify the most influential factors affecting economic growth across different time periods and countries. 
@@ -58,7 +58,7 @@ This project aims to investigate the relationship between economic indicators an
     Seaborn: Enhanced visual scatter plots.
     
 <a name="PowerBI"></a>
-#### PowerBI Supply Chain Analysis Dashboard
+#### * PowerBI Supply Chain Analysis Dashboard
 **DEMO Video:** [LINK](https://drive.google.com/file/d/1KkYsJomkshiyImQrWUQov4wq_FqQE8zk/view?usp=sharing)
 ![Supply Chain Analysis Dashboard](https://github.com/ezhongguo/Profile/assets/138747553/14d6ae49-bec8-4e66-80d3-144ff9548b24)
 * **Dashboard Statement:**
