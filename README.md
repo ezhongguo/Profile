@@ -16,7 +16,7 @@
 ---------------------------------------------------------------------------------------------------------
 ### Selected Project
 <a name="Predictive"></a> 
-#### Predictive Modeling for Bike-Sharing Usage
+#### **Predictive Modeling for Bike-Sharing Usage**
 **Code:** [LINK](https://github.com/ezhongguo/Bike-Sharing-Usage/blob/main/Predictive%20Modeling%20for%20Bike-Sharing%20Usage.ipynb)
 * **Description:**
 The project focuses on building predictive models to forecast pick-up and drop-off counts at bike-sharing stations. Utilizing historical data on weather conditions and bike-sharing usage, linear regression models were developed to provide insights into the optimal allocation of bikes and docks at specific stations.
