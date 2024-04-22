@@ -28,6 +28,7 @@ The project focuses on building predictive models to forecast pick-up and drop-o
   * Python Programming (Pandas, NumPy, Scikit-learn)
   * Data Visualization (Matplotlib, Seaborn)
   * Linear Regression and Model Evaluation Metrics
+    
 <a name="NYC"></a> 
 #### SQL Data Processing for NYC Vehicle Collisions Analysis
 **Code:** [LINK](https://github.com/ezhongguo/NYC-Motor-Vehicle-Collisions/blob/main/NYC%20Motor%20Vehicle%20Collisions.ipynb)
@@ -38,6 +39,7 @@ This project focuses on analyzing New York City Motor Vehicle Collisions (MVC) d
 * **Skills:**
   * Shell Commands: Used for data acquisition, file renaming, and initial preprocessing.
   * SQL in AWS: Create table, querying, analysis, and AWS database management.
+    
 <a name="Statistical"></a>
 #### Statistical Models for Economic Growth Rate Analysis
 **Code:** [LINK](https://github.com/ezhongguo/Economic-Growth-Rate/blob/main/Economic%20Growth%20Rate%20Analysis.ipynb)
@@ -54,6 +56,7 @@ This project aims to investigate the relationship between economic indicators an
   * Data Visualization
     Matplotlib: Basic plots, like scatter plots for GDP growth.
     Seaborn: Enhanced visual scatter plots.
+    
 <a name="PowerBI"></a>
 #### PowerBI Supply Chain Analysis Dashboard
 **DEMO Video:** [LINK](https://drive.google.com/file/d/1KkYsJomkshiyImQrWUQov4wq_FqQE8zk/view?usp=sharing)
