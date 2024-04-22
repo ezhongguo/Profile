@@ -4,6 +4,7 @@
 * Selected Project
     * [Predictive Modeling for Bike-Sharing Usage](#Predictive)
     * [Statistical Models for Economic Growth Rate Analysis](#Statistical)
+    * [PowerBI Supply Chain Analysis Dashboard](#PowerBI)
 * stanCode Python Coursework
     * [Babynames](#Baby)
     * [Word Search - boggle](#boggle)
@@ -14,7 +15,8 @@
 
 ---------------------------------------------------------------------------------------------------------
 ### Selected Project
-#### <a name="Predictive"></a> Predictive Modeling for Bike-Sharing Usage
+<a name="Predictive"></a> 
+#### Predictive Modeling for Bike-Sharing Usage
 **Code:** [LINK](https://github.com/ezhongguo/Bike-Sharing-Usage/blob/main/Predictive%20Modeling%20for%20Bike-Sharing%20Usage.ipynb)
 * **Description:**
 The project focuses on building predictive models to forecast pick-up and drop-off counts at bike-sharing stations. Utilizing historical data on weather conditions and bike-sharing usage, linear regression models were developed to provide insights into the optimal allocation of bikes and docks at specific stations.
@@ -26,8 +28,8 @@ The project focuses on building predictive models to forecast pick-up and drop-o
   * Python Programming (Pandas, NumPy, Scikit-learn)
   * Data Visualization (Matplotlib, Seaborn)
   * Linear Regression and Model Evaluation Metrics
-
-#### <a name="Statistical"></a>Statistical Models for Economic Growth Rate Analysis
+<a name="Statistical"></a>
+#### Statistical Models for Economic Growth Rate Analysis
 **Code:** [LINK](https://github.com/ezhongguo/Economic-Growth-Rate/blob/main/Economic%20Growth%20Rate%20Analysis.ipynb)
 * **Description:**
 This project aims to investigate the relationship between economic indicators and GDP growth rate. We analyze various factors such as inflation rate, unemployment rate, real interest rate, primary school enrollment rate, and their impact on GDP growth. Using multivariate linear regression models, we aim to identify the most influential factors affecting economic growth across different time periods and countries. 
@@ -42,11 +44,25 @@ This project aims to investigate the relationship between economic indicators an
   * Data Visualization
     Matplotlib: Basic plots, like scatter plots for GDP growth.
     Seaborn: Enhanced visual scatter plots.
+<a name="PowerBI"></a>
+#### PowerBI Supply Chain Analysis Dashboard
+**DEMO Video:** [LINK](https://drive.google.com/file/d/1KkYsJomkshiyImQrWUQov4wq_FqQE8zk/view?usp=sharing)
+* **Dashboard Statement:**
+Guided by DataLiteracy4All's tutorial and utilizing a sample dataset, I crafted a supply chain analysis dashboard emphasizing inventory and order level insights. This dashboard offers a holistic view of warehouse operations and order processing.
+Key features of the dashboard include:
+  * **Inventory in Progress:** A visual representation of inventory that has been ordered but remains in our warehouse, providing insights into pending shipments.
+  * **Order in Progress:** Displays the number of orders between order and delivery dates, providing insights into order processing and delivery timelines.
+The dashboard showcases vital metrics, including Revenue, Cost, Profit, and Transactions, enhanced by slicers for easy filtering by Warehouse Code, Product Name, and Channel Level.
+* **Skills:**
+  * Power BI Visualization: Crafting interactive charts and graphs. 
+  * Power Query: Creating Date Table and cleaning the dataset.
+  * DAX Function: Implementing advanced data calculations in Power BI.
+  
 
 ---------------------------------------------------------------------------------------------------------
 ### MyStanCodeProjects
-
-#### <a name="Baby"></a> Baby names
+<a name="Baby"></a>
+#### Baby names
 * **DEMO Video:** [LINK](https://drive.google.com/file/d/1EREk00LTtlER3VqBbw1kDceA5bLc0Afo/view?usp=sharing)
 * **Code:** [LINK](https://github.com/ezhongguo/MyStanCodeProjects/tree/main/Babynames)
 * **Description:**
