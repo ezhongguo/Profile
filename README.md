@@ -108,7 +108,7 @@ Web Scraping: Used requests to fetch HTML, BeautifulSoup for parsing, extracted 
 ### <a name="skills"></a>Skills
 * Programming Languages & Tools: Python (Pandas, NumPy, MatPlotLib, Scikit-learn), SQL, AWS.
 * Statistical Analysis & Data Processing : R, MS Excel (Solver, Pivot Table, VLOOKUP).
-* BI & Visualization Tools: PowerBi (DAX), Tableau.
+* BI & Visualization Tools: Microsoft Power BI (DAX), Looker Studio, Tableau.
 
 ---------------------------------------------------------------------------------------------------------
 ### <a name="contacts"></a>Contacts
