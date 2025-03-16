@@ -1,7 +1,7 @@
-# Yi Zhong (Eva) Guo - Data/Business Analysis Portfolio 
+# Yi Zhong (Eva) Guo - Data/Business Analytics Portfolio 
 
 ### About me 
-Hello! I'm Eva, currently pursuing my MS in Business Analytics at George Washington University and expecting to graduate in December 2024. With two years of experience in e-commerce, I've gained a solid understanding of online retail data. I'm actively seeking roles in data analysis, business analysis, database administration, and supply chain management.
+Hello! I'm Eva, and I recently earned my MS in Business Analytics from George Washington University. Skilled in SQL, Python, R, Excel, Tableau, and Power BI, I have hands-on experience with e-commerce performance, website user behavior, and educational data. I specialize in delivering actionable insights and visualizations that optimize operations and support cross-functional teams. I'm actively seeking opportunities in data analysis, business analysis, database administration, and supply chain management.
 
 On this page, you'll find selected projects showcasing my expertise in machine learning, SQL implementation, BI visualiztion and Python coursework.
 
@@ -106,9 +106,9 @@ Web Scraping: Used requests to fetch HTML, BeautifulSoup for parsing, extracted 
 
 ---------------------------------------------------------------------------------------------------------
 ### <a name="skills"></a>Skills
-* Programming Languages & Tools: Python (Pandas, NumPy, MatPlotLib, Scikit-learn), SQL, AWS.
-* Statistical Analysis & Data Processing : R, MS Excel (Solver, Pivot Table, VLOOKUP).
-* BI & Visualization Tools: Microsoft Power BI (DAX), Looker Studio, Tableau.
+* Programming Languages & Tools: Python (Pandas, NumPy, MatPlotLib, Scikit-learn), SQL (MySQL,BigQuery), R (Statistical Modeling), AWS.
+* Data Processing : MS Excel (Solver, Pivot Table, VLOOKUP).
+* BI & Visualization Tools: Microsoft Power BI (DAX), Looker Studio, Tableau, SAS Viya.
 
 ---------------------------------------------------------------------------------------------------------
 ### <a name="contacts"></a>Contacts
